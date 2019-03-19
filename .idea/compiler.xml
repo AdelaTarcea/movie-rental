@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bookstoreRest-lab5_main" target="11" />
+      <module name="bookstoreRest-lab5_test" target="11" />
+      <module name="client_main" target="11" />
+      <module name="client_test" target="11" />
+      <module name="movie-rental_main" target="11" />
+      <module name="movie-rental_test" target="11" />
+      <module name="movieRental_main" target="11" />
+      <module name="movieRental_test" target="11" />
+      <module name="movies-rental_main" target="11" />
+      <module name="movies-rental_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

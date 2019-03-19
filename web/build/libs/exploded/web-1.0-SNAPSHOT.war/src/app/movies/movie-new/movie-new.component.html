@@ -1,0 +1,24 @@
+<div>
+  <label>
+    Name:
+  </label>
+  <input #name>
+  <br>
+  <label>
+    Year:
+  </label>
+  <input #year>
+  <br>
+  <label>
+    Price:
+  </label>
+  <input #price>
+  <br>
+</div>
+
+<div>
+  <button (click)="goBack()">Back</button>
+  <button (click)="save(name.value, year.value, price.value)">Save
+  </button>
+</div>
+
